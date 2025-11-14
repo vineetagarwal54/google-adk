@@ -1,7 +1,5 @@
 import os
 import asyncio
-from unittest import runner
-from urllib import response
 import warnings
 import logging
 import dotenv
